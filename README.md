@@ -1,2 +1,2 @@
-# ML2019
-Machine Learning exercises during 2019
+# MLND 2018
+Machine Learning exercises during 2018
